@@ -14,6 +14,10 @@ For the backend clint system should have Java 8 and up, mysql 8g or up.
 * Sync Maven 
 * run the application.
 
+The Application contains two screens.
 
+The First screen is for submitting the survey, It contains some basic questions along with one star rating input. When the user fills all the fields then it will aloow to submit 
+
+![screencapture-localhost-4200-add-2023-02-19-17_30_09](https://user-images.githubusercontent.com/26324327/219957546-ad9a8846-2af6-43c5-bba7-88a2cdbc5c8c.png)
 
 
