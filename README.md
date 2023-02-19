@@ -7,7 +7,7 @@ In this project I used angular 6 as front-end framework
 * After that to launch the Application on browser run : ng serve -o
 * Tha Frontend application is confuiged with backend's localhost:8080.
 
-For the backend clint system should have Java 8 and up, mysql 8g or up.
+For the backend clint system should have Java 8 and up,OpenJDK 19, mysql 8g or up.
 
 * Application is configed on 8080. 
 * please run command : create database project; to create the DB.
@@ -24,3 +24,5 @@ The First screen is for submitting the survey, It contains some basic questions 
 The second screen contains a list of the submitted survey. I also added one update screen just to showcase all the curd operation.
 
 ![screencapture-localhost-4200-2023-02-19-17_30_33](https://user-images.githubusercontent.com/26324327/219957770-da91b890-e16a-42c7-b57f-c97c91c6ebb8.png)
+
+Video Link : https://vimeo.com/800340048
