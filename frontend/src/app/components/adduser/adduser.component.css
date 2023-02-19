@@ -1,0 +1,88 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@300;400;500;600&display=swap');
+
+body{
+    background-image: url("img1.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: auto;
+    margin: 00px;
+    padding-bottom: 100px;
+}
+.navbar{
+    background: rgba(76, 0, 230, 0.6);
+    color: white;
+    font-size: 25px;
+    font-weight: bolder;
+    font-family: 'Quicksand', sans-serif;
+}
+.navbar-brand{
+    color: white;
+    font-size: 35px;
+    font-family: 'Quicksand', sans-serif;
+    font-weight: bolder;
+}
+.nav-link{
+    color: white;
+}
+.filled {
+    color: #1e90ff;
+}
+.low {
+    color: #deb0b0;
+}
+.filled.low {
+    color: #ff1e1e;
+}
+
+/* CSS */
+#button {
+  align-items: center;
+  background-image: linear-gradient(144deg,#AF40FF, #5B42F3 50%,#00DDEB);
+  border: 0;
+  border-radius: 8px;
+  box-shadow: rgba(151, 65, 252, 0.2) 0 15px 30px -5px;
+  box-sizing: border-box;
+  color: #FFFFFF;
+  display: flex;
+  font-family: Phantomsans, sans-serif;
+  font-size: 20px;
+  justify-content: center;
+  line-height: 1em;
+  max-width: 100%;
+  min-width: 140px;
+  padding: 19px 24px;
+  text-decoration: none;
+  user-select: none;
+  -webkit-user-select: none;
+  touch-action: manipulation;
+  white-space: nowrap;
+  cursor: pointer;
+  font-family: 'Quicksand', sans-serif;
+  font-weight: bolder;
+}
+
+#button:active,
+#button:hover {
+  outline: 0;
+}
+
+@media (min-width: 768px) {
+  #button {
+    font-size: 24px;
+    min-width: 196px;
+  }
+}
+
+.title{
+    font-size: 45px;
+    font-family: 'Quicksand', sans-serif;
+    font-weight: 900;
+}
+
+.lables{
+    font-size: 20px;
+    font-family: 'Quicksand', sans-serif;
+    font-weight: 900;
+}
